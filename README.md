@@ -8,7 +8,7 @@
 - 🔭 I’m currently working at [Dxtr][dxtr] as Back-End Developer
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with Open Source projects creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - 💬 Ask me about anything you want to ask
 - ⚡ Fun fact: I love cats
 
