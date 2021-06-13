@@ -43,7 +43,9 @@
 
 ---
 
+<!--
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=arispati&show_icons=true&hide_border=true" />
+-->
 
 [git]: https://github.com/arispati
 [website]: https://muhamadaris.com
