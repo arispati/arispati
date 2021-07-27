@@ -5,7 +5,7 @@
 -->
 
 ## I'm Developer and Single!
-- 🔭 I’m currently working at [Dxtr][dxtr] as Back-End Developer
+- 🔭 I’m currently working at [Dxtr][dxtr] as Technical Lead
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with Open Source projects creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
@@ -43,9 +43,7 @@
 
 ---
 
-<!--
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=arispati&show_icons=true&hide_border=true" />
--->
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=arispati&show_icons=true&hide_border=true" />
 
 [git]: https://github.com/arispati
 [website]: https://muhamadaris.com
