@@ -4,11 +4,11 @@
 **arispati/arispati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-## I'm Developer and Single!
-- 🔭 I’m currently working at [Dxtr][dxtr] as Technical Lead
+## I'm Developer!
+- 🔭 I’m currently working at [Dxtr][dxtr] as Jr. Technical Lead
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with Open Source projects creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - 💬 Ask me about anything you want to ask
 - ⚡ Fun fact: I love cats
 
