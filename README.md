@@ -5,10 +5,10 @@
 -->
 
 ## I'm Developer!
-- 🔭 I’m currently working at [Dxtr][dxtr] as Jr. Technical Lead
+- 🔭 I’m currently working at [MIFX][mifx] as Lead Developer
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with Open Source projects creators
-- 🥅 2023 Goals: Contribute more to Open Source projects
+- 🥅 2024 Goals: Contribute more to Open Source projects
 - 💬 Ask me about anything you want to ask
 - ⚡ Fun fact: I love cats
 
@@ -50,4 +50,4 @@
 [twitter]: https://twitter.com/mas_arispati
 [instagram]: https://instagram.com/mas.arispati
 [linkedin]: https://linkedin.com/in/muhamad-aris
-[dxtr]: https://www.dxtr.asia
+[mifx]: https://mifx.com
